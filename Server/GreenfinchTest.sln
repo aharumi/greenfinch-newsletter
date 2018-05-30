@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreenfinchNewsletter.API", "GreenfinchTest\GreenfinchNewsletter.API.csproj", "{34194079-3461-46A1-92D4-B573A6B22363}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreenfinchNewsletter.Model", "GreenfinchTest.Model\GreenfinchNewsletter.Model.csproj", "{659FE044-FD14-4883-828B-C46CEC03742D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreenfinchNewsletter.Data", "GreenfinchTest.Data\GreenfinchNewsletter.Data.csproj", "{29A6A467-7780-4931-8A61-73642B9B4AE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreenfinchNewsletter.Services", "GreemfinchTest.Services\GreenfinchNewsletter.Services.csproj", "{46267C70-7130-4640-92D0-4D845B5E3299}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34194079-3461-46A1-92D4-B573A6B22363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34194079-3461-46A1-92D4-B573A6B22363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34194079-3461-46A1-92D4-B573A6B22363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34194079-3461-46A1-92D4-B573A6B22363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659FE044-FD14-4883-828B-C46CEC03742D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659FE044-FD14-4883-828B-C46CEC03742D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659FE044-FD14-4883-828B-C46CEC03742D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659FE044-FD14-4883-828B-C46CEC03742D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29A6A467-7780-4931-8A61-73642B9B4AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A6A467-7780-4931-8A61-73642B9B4AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A6A467-7780-4931-8A61-73642B9B4AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A6A467-7780-4931-8A61-73642B9B4AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46267C70-7130-4640-92D0-4D845B5E3299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46267C70-7130-4640-92D0-4D845B5E3299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46267C70-7130-4640-92D0-4D845B5E3299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46267C70-7130-4640-92D0-4D845B5E3299}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {155FC47D-30F4-45F5-84EF-EC7F7C4418B7}
+	EndGlobalSection
+EndGlobal

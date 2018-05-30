@@ -1,0 +1,14 @@
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Data\bin\Debug\netcoreapp2.0\GreenfinchNewsletter.Data.deps.json
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Data\bin\Debug\netcoreapp2.0\GreenfinchNewsletter.Data.runtimeconfig.json
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Data\bin\Debug\netcoreapp2.0\GreenfinchNewsletter.Data.runtimeconfig.dev.json
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Data\bin\Debug\netcoreapp2.0\GreenfinchNewsletter.Data.dll
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Data\bin\Debug\netcoreapp2.0\GreenfinchNewsletter.Data.pdb
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Data\bin\Debug\netcoreapp2.0\GreenfinchNewsletter.Model.dll
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Data\bin\Debug\netcoreapp2.0\GreenfinchNewsletter.Model.pdb
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Data\obj\Debug\netcoreapp2.0\GreenfinchNewsletter.Data.csprojAssemblyReference.cache
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Data\obj\Debug\netcoreapp2.0\GreenfinchNewsletter.Data.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Data\obj\Debug\netcoreapp2.0\GreenfinchNewsletter.Data.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Data\obj\Debug\netcoreapp2.0\GreenfinchNewsletter.Data.AssemblyInfo.cs
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Data\obj\Debug\netcoreapp2.0\GreenfinchNewsletter.Data.csproj.CopyComplete
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Data\obj\Debug\netcoreapp2.0\GreenfinchNewsletter.Data.dll
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Data\obj\Debug\netcoreapp2.0\GreenfinchNewsletter.Data.pdb

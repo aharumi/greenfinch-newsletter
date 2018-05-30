@@ -1,0 +1,9 @@
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Model\bin\Debug\netcoreapp2.0\GreenfinchTest.Model.deps.json
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Model\bin\Debug\netcoreapp2.0\GreenfinchTest.Model.dll
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Model\bin\Debug\netcoreapp2.0\GreenfinchTest.Model.pdb
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Model\obj\Debug\netcoreapp2.0\GreenfinchTest.Model.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Model\obj\Debug\netcoreapp2.0\GreenfinchTest.Model.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Model\obj\Debug\netcoreapp2.0\GreenfinchTest.Model.AssemblyInfo.cs
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Model\obj\Debug\netcoreapp2.0\GreenfinchTest.Model.dll
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Model\obj\Debug\netcoreapp2.0\GreenfinchTest.Model.pdb
+C:\Users\joaop\source\repos\GreenfinchTest\GreenfinchTest.Model\obj\Debug\netcoreapp2.0\GreenfinchTest.Model.csprojAssemblyReference.cache
